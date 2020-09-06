@@ -1,3 +1,5 @@
+# The Sprawl
+
 ## Epigraph
 
 _The Sprawl was a long strange way home over the Pacific now..._
@@ -12,7 +14,7 @@ Explore Japan's train and subway system at before-seen resolution and accuracy.
 
 ## Rising Action
 
-(installation instructions here)
+Download Windows and macOS binaries from the [releases page](https://github.com/ktfleming/the-sprawl/releases).
 
 ## Falling Action
 
