@@ -14,7 +14,7 @@ Explore Japan's train and subway system at before-seen resolution and accuracy.
 
 ## Rising Action
 
-Download Windows and macOS binaries from the [releases page](https://github.com/ktfleming/the-sprawl/releases).
+Download Windows and macOS binaries from the [releases page](https://github.com/ktfleming/the-sprawl/releases). For the macOS version you'll need to `chmod +x` the binary in order to run it.
 
 ## Falling Action
 
